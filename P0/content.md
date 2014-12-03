@@ -1,5 +1,5 @@
 ---
-name: Playing sounds in Cocos2D
+title: Playing sounds in Cocos2D
 slug: playing-sounds-cocos2d
 ---            
 
@@ -53,8 +53,4 @@ This is all you need to get started with sounds in Cocos2d 3.0!
 
 Happy Coding!
 
-	       benji@makegameswith.us
-
-            <div>
-
-            </div>
+benji@makegameswith.us
