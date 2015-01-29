@@ -1,6 +1,7 @@
 ---
 title: Playing sounds in Cocos2D
 slug: playing-sounds-cocos2d
+gamernews_id: 355
 ---            
 
 Audio in Cocos2d 3.0 is very simple. We'll give you a quick intro of anything you need to know about the new Sound API *OALSimpleAudio*.
