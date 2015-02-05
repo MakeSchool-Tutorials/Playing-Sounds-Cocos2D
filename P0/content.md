@@ -26,7 +26,7 @@ If you want to loop the sound, there's another option for that:
     // access audio object
     OALSimpleAudio *audio = [OALSimpleAudio sharedInstance];
     // play sound effect in a loop
-    [audio playEffect:@"your_file_name" loop:TRUE];
+    [audio playEffect:@"your_file_name" loop:YES];
 
 # Playing background music in Cocos2d 3.0
 
@@ -35,7 +35,7 @@ If you want to loop the sound, there's another option for that:
     // access audio object
     OALSimpleAudio *audio = [OALSimpleAudio sharedInstance];
     // play background sound
-    [audio playBg:@"your_file_name" loop:TRUE];
+    [audio playBg:@"your_file_name" loop:YES];
 
 # Preloading sound in Cocos2d 3.0
 
@@ -54,4 +54,4 @@ This is all you need to get started with sounds in Cocos2d 3.0!
 
 Happy Coding!
 
-benji@makegameswith.us
+benji@makeschool.com
