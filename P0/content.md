@@ -2,7 +2,7 @@
 title: Playing sounds in Cocos2D
 slug: playing-sounds-cocos2d
 gamernews_id: 355
----            
+---
 
 Audio in Cocos2d 3.0 is very simple. We'll give you a quick intro of anything you need to know about the new Sound API *OALSimpleAudio*.
 
@@ -10,7 +10,7 @@ Audio in Cocos2d 3.0 is very simple. We'll give you a quick intro of anything yo
 
 First of all, add the sound file(s) to your Xcode project:
 
-![](https://static.makegameswith.us/gamernews_images/1Z6naxjOBM/Screen Shot 2014-01-31 at 09.24.13.png)
+![](./Screen Shot 2014-01-31 at 09.24.13.png)
 
 The most important supported file format is *.mp3* but in general *OALSimpleAudio* supports all formats that are supported by iOS.
 
