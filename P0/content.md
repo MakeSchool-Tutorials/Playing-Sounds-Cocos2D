@@ -10,7 +10,7 @@ Audio in Cocos2d 3.0 is very simple. We'll give you a quick intro of anything yo
 
 First of all, add the sound file(s) to your Xcode project:
 
-![](./Screen Shot 2014-01-31 at 09.24.13.png)
+![Files in explorer](./Screen Shot 2014-01-31 at 09.24.13.png)
 
 The most important supported file format is *.mp3* but in general *OALSimpleAudio* supports all formats that are supported by iOS.
 
